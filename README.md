@@ -12,3 +12,4 @@ Roadmap:
 0.08 start on the beastiary and inventory
 0.09 start building the world and main story
 0.10 playable demo
+0.11 expand on what people like
