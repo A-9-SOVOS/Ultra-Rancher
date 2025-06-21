@@ -15,15 +15,16 @@ A game where you train and proliferate fighting creatures.
         0.10 Playable demo
         0.11 Expand on what people like
 
-## Ethics
-Minimal third party content
-WYSIWYG
-RONR
-Wuxing
-Jeet Kune Do
-Art of War
-Sandwiches are love
-Sandwiches are life
+**Ethics**
+    
+    Minimal third party content
+    WYSIWYG
+    RONR
+    Wuxing
+    Jeet Kune Do
+    Art of War
+    Sandwiches are love
+    Sandwiches are life
 
 ## License
 This project is an unreleased WIP visible to the public under the **Arc-9 : Read Only License**.
