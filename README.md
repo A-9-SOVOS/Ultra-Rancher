@@ -14,3 +14,6 @@ A game where you train and proliferate fighting creatures.
 	0.09 start building the world and main story
 	0.10 playable demo
 	0.11 expand on what people like
+
+## License
+This project is released under the **Arc-9 : Read Only License**.
