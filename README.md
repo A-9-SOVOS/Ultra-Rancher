@@ -25,6 +25,7 @@ A game where you train and proliferate fighting creatures.
     Art of War
     Sandwiches are love
     Sandwiches are life
+    SWAG
 
 ## License
 This project is an unreleased WIP visible to the public under the **Arc-9 : Read Only License**.
